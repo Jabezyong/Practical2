@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Practical2</string>
+    <string name="hint_msg">Enter message here</string>
+    <string name="send">Send</string>
+    <string name="close">Close</string>
+    <string name="hint_id">Enter ID here</string>
+    <string name="hint_name">Enter Name here</string>
+    <string name="first_activity">First Activity</string>
+    <string name="second_activity">Second Activity</string>
+</resources>
